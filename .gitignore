@@ -1,0 +1,8 @@
+node_modules/
+*.log
+
+# Designer work in progress, not shipped in the plugin
+cli/
+schema-round/
+skills/
+designs/

@@ -1,0 +1,17 @@
+{
+  "name": "architect-tools",
+  "description": "MCP servers for Lenovo HPC/AI architects: Lenovo Press, DCSC and NVIDIA DSX reference designs.",
+  "author": {
+    "name": "leuquim"
+  },
+  "dependencies": [
+    "lenovo-press",
+    "lenovo-dcsc"
+  ],
+  "mcpServers": {
+    "nvidia-dsx": {
+      "type": "http",
+      "url": "https://docs.nvidia.com/dsx/_mcp/server"
+    }
+  }
+}
